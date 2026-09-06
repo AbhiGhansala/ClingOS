@@ -11,7 +11,7 @@ ClingOS aims to deliver a polished, fluid, modern desktop experience powered by 
 Inspired by UX quality on macOS and the freedom of Linux, ClingOS will eventually support desktop ↔ mobile continuity using a future AOSP-based phone OS.
 
 ---
-###NOTE
+##NOTE
 ##This Project Has been Merged With S76 COSMIC
 ## 🔥 Vision
 
